@@ -21,7 +21,7 @@ spec:
     acr_name: agacr030a9
     branch_name: "production"
     image_tag: v1.0
-    github_User: __githubUser__
+    github_User: spalek-edhouse
     postgres:
       username: "postgres"
       database: "contoso"
